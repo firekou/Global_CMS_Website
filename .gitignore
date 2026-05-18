@@ -26,3 +26,6 @@ pnpm-debug.log*
 # project-specific
 temporary screenshots/
 .claude/settings.local.json
+
+# personal notes (intern)
+Levinson/
