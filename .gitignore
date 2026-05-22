@@ -27,5 +27,9 @@ pnpm-debug.log*
 temporary screenshots/
 .claude/settings.local.json
 
-# personal notes (intern)
-Levinson/
+# personal notes (intern) — keep most of Levinson/ private
+Levinson/*
+!Levinson/proposals/
+Levinson/proposals/*
+!Levinson/proposals/ai-friendly-template/
+!Levinson/proposals/ai-friendly-template/**
